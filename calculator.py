@@ -8,4 +8,4 @@ def multiply(a, b):
 def divide(a, b):
   return a /b
 
-##이 버전은 유료버전임
+#이 버전은 유료버전임
